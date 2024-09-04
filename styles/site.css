@@ -1,4 +1,22 @@
 body {
-  background-color: #ffffff;
+  background-color: #fae8f7;
   color: #000000;
+}
+
+li {
+  color: #ff44ca;
+  font-size: 100pt;
+}
+
+blockquote {
+  border-left: 100px solid;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 100pt;
+}
+
+em {
+  color: blue
 }
